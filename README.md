@@ -1,5 +1,11 @@
 # LRNR 
 
+
+??????????? TESTING ???????????
+to run test using cypress, run cypress open in CLI
+to run test using jest, run npm test in backend directory
+?????????????????????????????????
+
 ## Project Overview
 LRNR is an interactive learning application designed to enhance learning experiences through personalized quizzes generated with the OpenAI API. By leveraging React.js, Materialize, and Node.js, LRNR offers a seamless user interface for creating and taking quizzes tailored to individual preferences. Whether you're a student, educator, or lifelong learner, LRNR empowers you to engage with educational content in an interactive and dynamic way.
 
