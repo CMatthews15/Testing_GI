@@ -1,7 +1,4 @@
 const { getQuestions, getEvaluation, app } = require('./server');
-//const request = require('supertest');
-
-
 
 // test error messages from evaluation function 
 jest.mock('./server', () => ({
